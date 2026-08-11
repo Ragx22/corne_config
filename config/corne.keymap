@@ -129,7 +129,7 @@
     keymap {
         compatible = "zmk,keymap";
 
-        colemak_layer_corne_36 {
+        colemak_layer_Corne_36 {
             bindings = <
 &none  &kp Q  &kp W  &kp F          &kp P     &kp B          &kp J        &kp L                      &kp U             &kp Y    &kp SEMICOLON  &none
 &none  &kp A  &kp R  &kp S          &kp T     &kp G          &kp M        &kp N                      &kp E             &kp I    &kp O          &none
